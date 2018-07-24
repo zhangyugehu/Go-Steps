@@ -1,0 +1,46 @@
+{
+  "took": 2,
+  "timed_out": false,
+  "_shards": {
+    "total": 5,
+    "successful": 5,
+    "skipped": 0,
+    "failed": 0
+  },
+  "hits": {
+    "total": 3,
+    "max_score": 1.0,
+    "hits": [
+      {
+        "_index": "study",
+        "_type": "language",
+        "_id": "AWP9zcoIfKDUTA_nGoJN",
+        "_score": 1.0,
+        "_source": {
+          "name": "React Native",
+          "desc": "javascript language stydy"
+        }
+      },
+      {
+        "_index": "study",
+        "_type": "language",
+        "_id": "go",
+        "_score": 1.0,
+        "_source": {
+          "name": "golang",
+          "desc": "go language stydy"
+        }
+      },
+      {
+        "_index": "study",
+        "_type": "language",
+        "_id": "jave",
+        "_score": 1.0,
+        "_source": {
+          "name": "jave",
+          "desc": "java language stydy"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "_index": "study",
+  "_type": "language",
+  "_id": "go",
+  "_version": 1,
+  "found": true,
+  "_source": {
+    "name": "golang",
+    "desc": "go language stydy"
+  }
+}

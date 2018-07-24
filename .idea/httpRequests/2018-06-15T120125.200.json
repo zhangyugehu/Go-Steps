@@ -1,0 +1,42 @@
+{
+  "took": 3,
+  "timed_out": false,
+  "_shards": {
+    "total": 5,
+    "successful": 5,
+    "skipped": 0,
+    "failed": 0
+  },
+  "hits": {
+    "total": 1,
+    "max_score": 1.0,
+    "hits": [
+      {
+        "_index": "dating_profile",
+        "_type": "zhenai",
+        "_id": "1234567",
+        "_score": 1.0,
+        "_source": {
+          "Url": "http://album.zhenai.com/u/1234567",
+          "Id": "1234567",
+          "Type": "zhenai",
+          "Payload": {
+            "Name": "安静的雪",
+            "Gender": "",
+            "Age": 34,
+            "Height": 162,
+            "Weight": 57,
+            "Income": "",
+            "Marriage": "",
+            "Education": "",
+            "Occupation": "",
+            "Hokou": "",
+            "Xinzuo": "",
+            "House": "",
+            "Car": ""
+          }
+        }
+      }
+    ]
+  }
+}

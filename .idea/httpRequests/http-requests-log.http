@@ -1,0 +1,170 @@
+GET http://localhost:9200/dating_profile/zhenai/_search
+Content-Type: application/json
+
+{   "name":"React Native",   "desc":"javascript language stydy" }
+
+<> 2018-06-15T120244.200.json
+
+###
+
+GET http://localhost:9200/dating_profile/zhenai/1234567
+Content-Type: application/json
+
+{   "name":"React Native",   "desc":"javascript language stydy" }
+
+<> 2018-06-15T120228.404.json
+
+###
+
+DELETE http://localhost:9200/dating_profile/zhenai/1234567
+Content-Type: application/json
+
+{   "name":"React Native",   "desc":"javascript language stydy" }
+
+<> 2018-06-15T120223.200.json
+
+###
+
+GET http://localhost:9200/dating_profile/zhenai/_search
+Content-Type: application/json
+
+{   "name":"React Native",   "desc":"javascript language stydy" }
+
+<> 2018-06-15T120125.200.json
+
+###
+
+GET http://localhost:9200/dating_profile/zhenai/_search
+Content-Type: application/json
+
+{   "name":"React Native",   "desc":"javascript language stydy" }
+
+<> 2018-06-15T113328.200.json
+
+###
+
+GET http://localhost:9200/dating_profile/zhenai/_search
+Content-Type: application/json
+
+{   "name":"React Native",   "desc":"javascript language stydy" }
+
+<> 2018-06-15T113306.200.json
+
+###
+
+GET http://localhost:9200/dating_profile/zhenai/_search
+Content-Type: application/json
+
+{   "name":"React Native",   "desc":"javascript language stydy" }
+
+<> 2018-06-15T111727.200.json
+
+###
+
+GET http://localhost:9200/dating_profile/zhenai/_search
+Content-Type: application/json
+
+{   "name":"React Native",   "desc":"javascript language stydy" }
+
+<> 2018-06-14T063134.200.json
+
+###
+
+GET http://localhost:9200/study/language/_search
+Content-Type: application/json
+
+<> 2018-06-14T061902.200.json
+
+###
+
+GET http://localhost:9200/study/language/_search
+Content-Type: application/json
+
+{   "name":"React Native",   "desc":"javascript language stydy" }
+
+<> 2018-06-14T061842.200.json
+
+###
+
+POST http://localhost:9200/study/language/
+Content-Type: application/json
+
+{   "name":"React Native",   "desc":"javascript language stydy" }
+
+<> 2018-06-14T061832.201.json
+
+###
+
+GET http://localhost:9200/study/language/_search
+Content-Type: application/json
+
+{   "name":"jave",   "desc":"java language stydy" }
+
+<> 2018-06-14T061720.200.json
+
+###
+
+GET http://localhost:9200/study/language/jave
+Content-Type: application/json
+
+{   "name":"jave",   "desc":"java language stydy" }
+
+<> 2018-06-14T061711.200.json
+
+###
+
+POST http://localhost:9200/study/language/jave
+Content-Type: application/json
+
+{   "name":"jave",   "desc":"java language stydy" }
+
+<> 2018-06-14T061703.201.json
+
+###
+
+GET http://localhost:9200/study/language/go
+Content-Type: application/json
+
+{   "name":"golang",   "desc":"go language stydy" }
+
+<> 2018-06-14T061631.200.json
+
+###
+
+PUT http://localhost:9200/study/language/go
+Content-Type: application/json
+
+{   "name":"golang",   "desc":"go language stydy" }
+
+<> 2018-06-14T061621.201.json
+
+###
+
+GET http://localhost:9200
+Content-Type: application/json
+
+<> 2018-06-14T061312.200.json
+
+###
+
+GET http://localhost:9200/
+Content-Type: application/json
+
+<> 2018-06-14T061303.200.json
+
+###
+
+GET http://localhost:9200/
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-06-14T061212.200.json
+
+###
+
+GET http://localhost:8080/resources
+Accept: */*
+Cache-Control: no-cache
+
+###
+

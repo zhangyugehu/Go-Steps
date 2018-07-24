@@ -1,0 +1,13 @@
+{
+  "_index": "study",
+  "_type": "language",
+  "_id": "go",
+  "_version": 1,
+  "result": "created",
+  "_shards": {
+    "total": 2,
+    "successful": 1,
+    "failed": 0
+  },
+  "created": true
+}

@@ -1,0 +1,13 @@
+{
+  "found": true,
+  "_index": "dating_profile",
+  "_type": "zhenai",
+  "_id": "1234567",
+  "_version": 7,
+  "result": "deleted",
+  "_shards": {
+    "total": 2,
+    "successful": 1,
+    "failed": 0
+  }
+}
